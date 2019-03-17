@@ -1,44 +1,37 @@
 const config = {
 
   // mode
-  'mode': 'prod', //please set to prod before pushing to github pages!
+  'mode': 'dev', //please set to prod before pushing to github pages!
   //prod mode will turn on tracking, so AVOID visiting your own page, since it will lower your conversion rate
   //I only set it to dev while adjusting variables here to avoid tracking my own page visits.
 
 
   //Tracking
 
-  'ideaname': 'workwards',
+  'ideaname': 'picndine',
 
 
   // Content
 
-  'headline': 'Job Hopping made easy',
-  'subtitle': 'Receive better job offers while employed',
-  'first-mobile-mockup':'images/workwards-main.png',
+  'headline': 'Discover new Recipes using AI',
+  'subtitle': 'Just by taking a picture of any food!',
+  'first-mobile-mockup':'images/picndine-main.png',
 
 
 
 
   //Benefits
 
-  'second-mobile-mockup': 'images/workwards-offers.png',
-  'second-mobile-title': 'Receive Offers',
-  'second-mobile-description': 'Just create your anonymous profile and start receiving offers! You can also set a minimum bid, maximizing your chances to find a better deal.',
+  'second-mobile-mockup': 'images/picndine-pictures.png',
+  'second-mobile-title': 'Discover what to eat',
+  'second-mobile-description': 'Just take a picture of any food that you have in your home',
 
 
-  'third-mobile-mockup': 'images/workwards-recruiters.png',
-  'third-mobile-title': 'Chat with Recruiters',
-  'third-mobile-description': 'After accepting an offer you can instantly start chatting with potential employers and schedule an interview',
+  'third-mobile-mockup': 'images/picndine-recipes.png',
+  'third-mobile-title': 'Get recipes based on recognized ingredients',
+  'third-mobile-description': 'Our AI system will recognize ingredients from your picture and suggest your recipes based on it.',
 
 
-  'fourth-mobile-mockup': 'images/iphone-feature-01.png',
-  'fourth-mobile-title': 'fourth mobile',
-  'fourth-mobile-description': 'fourth mobile description',
-
-
-
-
-  'footer-headline': 'Job Hopping made easy',
-  'footer-subtitle': 'Receive better job offers while employed'
+  'footer-headline': 'Discover new Recipes using AI',
+  'footer-subtitle': 'Get early access!'
 };

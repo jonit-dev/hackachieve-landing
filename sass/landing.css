@@ -32,6 +32,7 @@ body {
   margin-bottom: 1rem !important; }
 
 .device-mockup {
-  max-width: 327px !important; }
+  max-width: 600px !important;
+  width: 600px !important; }
 
 /*# sourceMappingURL=landing.css.map */
