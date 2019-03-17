@@ -1,7 +1,7 @@
 const config = {
 
   // mode
-  'mode': 'dev', //please set to prod before pushing to github pages!
+  'mode': 'prod', //please set to prod before pushing to github pages!
   //prod mode will turn on tracking, so AVOID visiting your own page, since it will lower your conversion rate
   //I only set it to dev while adjusting variables here to avoid tracking my own page visits.
 

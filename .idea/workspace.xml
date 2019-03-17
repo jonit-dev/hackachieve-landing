@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3492ee5b-4ad1-4a6b-a7e3-dcb64dcae679" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3492ee5b-4ad1-4a6b-a7e3-dcb64dcae679" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -132,59 +130,55 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-398023156">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="151" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="151" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/js/config.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="19">
-                  <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/images/picndine-main.png">
-              <provider selected="true" editor-type-id="images" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/landing.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1653">
-                  <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="196" column="53" selection-start-line="196" selection-start-column="53" selection-end-line="196" selection-end-column="53" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/sass/landing.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="354">
-                  <caret line="44" selection-start-line="44" selection-end-line="44" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/landing.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1653">
+              <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3724">
+              <caret line="196" column="53" selection-start-line="196" selection-start-column="53" selection-end-line="196" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -237,13 +231,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Picndine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Picndine" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Picndine" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Picndine" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="Hackachieve" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackachieve" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -295,16 +284,17 @@
       <workItem from="1552671792857" duration="270000" />
       <workItem from="1552701709903" duration="14000" />
       <workItem from="1552794342476" duration="1046000" />
+      <workItem from="1552796653685" duration="251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9879000" />
+    <option name="totallyTimeSpent" value="10130000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1920" height="1050" extended-state="7" />
+    <frame x="0" y="30" width="1920" height="1050" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Project Explorer" order="3" />
@@ -393,6 +383,7 @@
     <entry file="file://$PROJECT_DIR$/images/workwards-recruiters.png" />
     <entry file="file://$PROJECT_DIR$/images/workwards-offers.png" />
     <entry file="file://$PROJECT_DIR$/images/workwards-main.png" />
+    <entry file="file://$PROJECT_DIR$/images/picndine-main.png" />
     <entry file="file://$PROJECT_DIR$/js/landing.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1653">
@@ -402,7 +393,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
+        <state relative-caret-position="3724">
           <caret line="196" column="53" selection-start-line="196" selection-start-column="53" selection-end-line="196" selection-end-column="53" />
         </state>
       </provider>
@@ -414,13 +405,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/picndine-main.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        <state relative-caret-position="444">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
